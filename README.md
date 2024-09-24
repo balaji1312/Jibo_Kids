@@ -9,7 +9,6 @@ The JIBO Kids Corpus is composed of structured and semi-structured speech from 1
 Following is a description of the directory structure in this release:
 
 ```
-* README.txt: This file.
 * data/: The data directory contains the actual .wav files, along with their word-level transcription (in .txt files).
     * data/letters_digits/: This directory contains session recordings from children attempting the letter and digit identification task.
     * data/brush/: This directory contains session recordings from children attempting the explanation task 'brushing their teeth'.
