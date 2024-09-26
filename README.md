@@ -23,7 +23,7 @@ in year one of the study.
 
 ## Recording Conditions and Data Collection
 
-Additional information about the specfic setup used for data collection, as well information about the tasks is present on the paper accompanying this dataset.
+Additional information about the specfic setup used for data collection, as well information about the tasks is present in the paper accompanying this dataset.
 
 ## Contact Information
 
