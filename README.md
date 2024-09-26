@@ -27,7 +27,7 @@ Additional information about the specfic setup used for data collection, as well
 
 ## Contact Information
 
-Further information about this corpus can be found at : [http://www.seas.ucla.edu/spapl/](http://www.seas.ucla.edu/spapl/).
+Further information about this corpus can be found at :
 
 Refer specific questions to:
 
