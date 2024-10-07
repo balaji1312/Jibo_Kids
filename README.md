@@ -2,7 +2,7 @@
 
 ## Overview
 
-The JIBO Kids Corpus is composed of structured and semi-structured speech from 110 children from pre-kindergarten through grade 1. This release version contains 384 individual wav files sampled at 16 kHz. Corresponding word-level transcriptions are also included.
+The JIBO Kids Corpus is composed of structured and semi-structured speech from 110 children from pre-kindergarten through grade 1. This release version contains 383 individual wav files sampled at 16 kHz. Corresponding word-level transcriptions are also included.
 
 ## Distribution Directory Structure
 
@@ -18,7 +18,7 @@ Following is a description of the directory structure in this release:
 
 ## File Naming Scheme
 
-Each child was anonymized in the format TXYY7ZZZ, where: X in \{1,2\} is the year of the study,  YY in \{01, 02, 03\} is the child's year in school - 01 - Pre-kindergarten, 02 - Kindergarten,  03 - grade 1. ZZZ is a unique identifier for each child.  Boys are odd numbered and girls are even numbered. Thus,T1027235 is child 235, a male kindergartener whose data was collected
+Each child was anonymized in the format TXYY7ZZZ, where: X in \{1,2\} is the year of the study,  YY in \{01, 02, 03\} is the child's year in school - 01 - Pre-kindergarten, 02 - Kindergarten,  03 - grade 1. ZZZ is a unique identifier for each child.  Boys are odd numbered and girls are even numbered. Thus, T1027235 is child 235, a male kindergartener whose data was collected
 in year one of the study.
 
 ## Recording Conditions and Data Collection
