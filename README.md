@@ -6,6 +6,12 @@ The JIBO Kids Corpus is composed of structured and semi-structured speech from 1
 
 ## Distribution Directory Structure
 
+The original directory structure can be retrieved by executing:
+
+```
+cat jibo_release_part_aa jibo_release_part_ab > combined.zip && unzip combined.zip
+```
+
 Following is a description of the directory structure in this release:
 
 ```
