@@ -11,6 +11,7 @@ The original directory structure can be retrieved by executing:
 ```
 cat jibo_release_part_aa jibo_release_part_ab > combined.zip && unzip combined.zip
 ```
+A temporary alternative link to ```combined.zip``` can be found [here](https://ucla.box.com/s/48wjjpxni99xsw5unn4n99mbvnzzvo7r)
 
 Following is a description of the directory structure in this release:
 
