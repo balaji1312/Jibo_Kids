@@ -32,6 +32,22 @@ in year one of the study.
 
 Additional information about the specfic setup used for data collection, as well information about the tasks is present in the paper accompanying this dataset.
 
+## 📜 Citation
+
+If you found this work useful in your research, please cite:
+
+```bibtex
+@article{shankar2024jibo,
+  title={The JIBO Kids Corpus: A speech dataset of child-robot interactions in a classroom environment},
+  author={Shankar, Natarajan Balaji and Afshan, Amber and Johnson, Alexander and Mahapatra, Aurosweta and Martin, Alejandra and Ni, Haolun and Park, Hae Won and Perez, Marlen Quintero and Yeung, Gary and Bailey, Alison and others},
+  journal={JASA Express Letters},
+  volume={4},
+  number={11},
+  year={2024},
+  publisher={AIP Publishing}
+}
+```
+
 ## Contact Information
 
 Further information about this corpus can be found at :
