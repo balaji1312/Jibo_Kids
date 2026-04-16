@@ -34,7 +34,7 @@ Backup download method:
 
 If the GitHub Releases download is unavailable, use the Zenodo record mirror:
 
-[Zenodo Mirror](https://zenodo.org/records/13964792)
+[Zenodo Mirror](https://zenodo.org/records/19604408)
 
 After downloading the same release files, place them in the repository directory and run:
 
