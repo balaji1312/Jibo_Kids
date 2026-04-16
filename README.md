@@ -4,14 +4,44 @@
 
 The JIBO Kids Corpus is composed of structured and semi-structured speech from 110 children from pre-kindergarten through grade 1. This release version contains 383 individual wav files sampled at 16 kHz. Corresponding word-level transcriptions are also included.
 
+Some changes have been made to how the corpus is distributed so that access is more reliable for users. In particular, the audio archive is no longer expected to download as part of `git clone`.
+
 ## Distribution Directory Structure
 
-The original directory structure can be retrieved by executing:
+The original directory structure can be retrieved as follows.
 
+Primary download method:
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/balaji1312/Jibo_Kids
+cd Jibo_Kids
 ```
-cat jibo_release_part_aa jibo_release_part_ab > combined.zip && unzip combined.zip
+
+2. Download the two release files from the GitHub Releases page:
+
+[GitHub Releases](https://github.com/balaji1312/Jibo_Kids/releases)
+
+3. Place both files in the repository directory and run:
+
+```bash
+cat jibo_release_part_aa jibo_release_part_ab > combined.zip
+unzip combined.zip
 ```
-A temporary alternative link to ```combined.zip``` can be found [here](https://ucla.box.com/s/48wjjpxni99xsw5unn4n99mbvnzzvo7r)
+
+Backup download method:
+
+If the GitHub Releases download is unavailable, use the Zenodo record mirror:
+
+[Zenodo Mirror](https://zenodo.org/records/13964792)
+
+After downloading the same release files, place them in the repository directory and run:
+
+```bash
+cat jibo_release_part_aa jibo_release_part_ab > combined.zip
+unzip combined.zip
+```
 
 Following is a description of the directory structure in this release:
 
@@ -32,7 +62,7 @@ in year one of the study.
 
 Additional information about the specfic setup used for data collection, as well information about the tasks is present in the paper accompanying this dataset.
 
-## 📜 Citation
+## Citation
 
 If you found this work useful in your research, please cite:
 
