@@ -6,6 +6,8 @@ The JIBO Kids Corpus is composed of structured and semi-structured speech from 1
 
 Some changes have been made to how the corpus is distributed so that access is more reliable for users. In particular, the audio archive is no longer expected to download as part of `git clone`.
 
+**[10/26 update]** The JIBO Kids Corpus was used in DrivenData’s [On Top of Pasketti challenge](https://drivendata.co/kidsasr/), and new [word-level and phonetic transcriptions](https://platform.k12-ai-infrastructure.org/datasets/13/jibo/version/12/) are now publicly available. If using these transcripts, please cite [DrivenData (2026), *JIBO Kids Corpus Transcripts*, K-12 AI Infrastructure Program](https://platform.k12-ai-infrastructure.org/datasets/jibo), in addition to the [original JIBO Kids Corpus](https://doi.org/10.1121/10.0034195).
+
 ## Distribution Directory Structure
 
 The original directory structure can be retrieved as follows.
